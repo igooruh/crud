@@ -45,6 +45,6 @@ main.content {
     grid-area: content;
 }
 
-footer.footer {
+footer.rodape {
     grid-area: footer;
 }
