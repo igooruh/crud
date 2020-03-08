@@ -1,3 +1,3 @@
 # crud
-Project to learning about nodeJS and React web. System of user register.
-But projects frontend and backend don't connected
+Project to learning about nodeJS to backend and ReactJs to frontend. System of user register.
+But projects frontend and backend don't connected.
